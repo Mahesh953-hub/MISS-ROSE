@@ -8,7 +8,7 @@ feedparser
 pyowm
 bs4
 lxml
-demjson
+#demjson
 PyLyrics
 wget
 gTTS
